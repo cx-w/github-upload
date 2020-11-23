@@ -1,0 +1,14 @@
+DEBUG: onApplicationComplete
+DEBUG: onRecalculateGeometry
+DEBUG: Frame WxH: 0 : 0
+DEBUG: New WxH: 600 : 500
+DEBUG: Native Stage WxH: 600 : 500
+DEBUG: Native WxH: 600 : 500
+DEBUG: isARestart
+DEBUG: onRecalculateGeometry
+DEBUG: Frame WxH: 0 : 0
+DEBUG: New WxH: 600 : 500
+DEBUG: Native Stage WxH: 600 : 500
+DEBUG: Native WxH: 600 : 500
+WARN: Attempting to retry retrieval of app dependencies from proctorserv for session ID: 
+WARN: Could not retrieve app dependencies from proctoserv for session ID: 
